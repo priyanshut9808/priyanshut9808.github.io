@@ -960,4 +960,16 @@
       font-size: 4rem;
     }
   }
-  
+
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    text-align:end;
+    margin: 30px 50px;
+}
+
+.counter{
+    font-size: 60px;
+    margin-top: 10px;
+}
